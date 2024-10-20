@@ -1,0 +1,160 @@
+001  getA4Player moved 3 in 0.03698110580444336 sec.
+
+0     4 4 4 4 4 4
+
+      4 4 0 5 5 5    1
+
+001  getA4Player moved 4 in 0.05694842338562012 sec.
+
+0     4 4 4 4 5 5
+
+      4 4 0 0 6 6    2
+
+001  Yazeed_AlSuboh moved 3 in 0.04499363899230957 sec.
+
+1     5 5 5 0 5 5
+
+      4 4 0 0 6 6    2
+
+001  Yazeed_AlSuboh moved 2 in 0.06531476974487305 sec.
+
+2     6 6 6 1 0 5
+
+      4 4 0 0 6 6    2
+
+001  Yazeed_AlSuboh moved 3 in 0.027476787567138672 sec.
+
+2     6 6 7 0 0 5
+
+      4 4 0 0 6 6    2
+
+001  getA4Player moved 1 in 0.048363447189331055 sec.
+
+2     6 6 7 0 0 5
+
+      0 5 1 1 7 6    2
+
+001  Yazeed_AlSuboh moved 1 in 0.0362086296081543 sec.
+
+2     7 7 8 1 1 0
+
+      0 5 1 1 7 6    2
+
+001  getA4Player moved 2 in 0.06873512268066406 sec.
+
+2     7 7 8 1 1 0
+
+      0 0 2 2 8 7    3
+
+001  getA4Player moved 5 in 0.03114795684814453 sec.
+
+2     8 8 9 2 2 1
+
+      0 0 2 2 0 8    4
+
+001  Yazeed_AlSuboh moved 2 in 0.04560732841491699 sec.
+
+2     8 8 10 3 0 1
+
+      0 0 2 2 0 8    4
+
+001  getA4Player moved 6 in 0.027365922927856445 sec.
+
+2     0 9 11 4 1 2
+
+      0 0 2 2 0 0    15
+
+001  Yazeed_AlSuboh moved 1 in 0.02993607521057129 sec.
+
+2     0 9 11 5 2 0
+
+      0 0 2 2 0 0    15
+
+001  getA4Player moved 3 in 0.043976545333862305 sec.
+
+2     0 9 11 5 0 0
+
+      0 0 0 3 0 0    18
+
+001  Yazeed_AlSuboh moved 3 in 0.03935837745666504 sec.
+
+3     1 10 12 0 0 0
+
+      1 0 0 3 0 0    18
+
+001  getA4Player moved 4 in 0.07075023651123047 sec.
+
+3     1 10 12 0 0 0
+
+      1 0 0 0 1 1    19
+
+001  getA4Player moved 6 in 0.028110980987548828 sec.
+
+3     1 10 12 0 0 0
+
+      1 0 0 0 1 0    20
+
+001  getA4Player moved 1 in 0.05817699432373047 sec.
+
+3     1 0 12 0 0 0
+
+      0 0 0 0 1 0    31
+
+001  Yazeed_AlSuboh moved 4 in 0.04443931579589844 sec.
+
+6     2 1 0 0 1 1
+
+      1 1 1 0 2 1    31
+
+001  getA4Player moved 6 in 0.046500444412231445 sec.
+
+6     2 1 0 0 1 1
+
+      1 1 1 0 2 0    32
+
+001  getA4Player moved 5 in 0.10050797462463379 sec.
+
+6     2 1 0 0 1 1
+
+      1 1 1 0 0 1    33
+
+001  getA4Player moved 2 in 0.05186963081359863 sec.
+
+6     2 1 0 0 1 1
+
+      1 0 2 0 0 1    33
+
+001  Yazeed_AlSuboh moved 5 in 0.05448007583618164 sec.
+
+6     3 0 0 0 1 1
+
+      1 0 2 0 0 1    33
+
+001  getA4Player moved 3 in 0.04798531532287598 sec.
+
+6     3 0 0 0 0 1
+
+      1 0 0 1 0 1    35
+
+001  Yazeed_AlSuboh moved 1 in 0.04803133010864258 sec.
+
+7     3 0 0 0 0 0
+
+      1 0 0 1 0 1    35
+
+001  getA4Player moved 1 in 0.049919843673706055 sec.
+
+7     3 0 0 0 0 0
+
+      0 0 0 1 0 1    36
+
+001  Yazeed_AlSuboh moved 6 in 0.060331106185913086 sec.
+
+8     0 0 0 0 0 0
+
+      1 1 0 1 0 1    36
+
+000  The game ended correctly. getA4Player: 40 Yazeed_AlSuboh: 8
+
+000  getA4Player win!
+

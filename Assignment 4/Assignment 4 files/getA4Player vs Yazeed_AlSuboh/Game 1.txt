@@ -1,0 +1,112 @@
+001  Yazeed_AlSuboh moved 4 in 0.0730276107788086 sec.
+
+1     5 5 0 4 4 4
+
+      5 4 4 4 4 4    0
+
+001  getA4Player moved 3 in 0.03972172737121582 sec.
+
+1     5 5 0 4 4 4
+
+      5 4 0 5 5 5    1
+
+001  getA4Player moved 4 in 0.0523529052734375 sec.
+
+1     5 5 0 4 5 5
+
+      5 4 0 0 6 6    2
+
+001  Yazeed_AlSuboh moved 3 in 0.05515718460083008 sec.
+
+2     6 6 1 0 5 5
+
+      5 4 0 0 6 6    2
+
+001  Yazeed_AlSuboh moved 4 in 0.0482022762298584 sec.
+
+2     6 7 0 0 5 5
+
+      5 4 0 0 6 6    2
+
+001  getA4Player moved 5 in 0.027355194091796875 sec.
+
+2     6 7 1 1 6 6
+
+      5 4 0 0 0 7    3
+
+001  Yazeed_AlSuboh moved 3 in 0.024684429168701172 sec.
+
+2     6 7 2 0 6 6
+
+      5 4 0 0 0 7    3
+
+001  getA4Player moved 6 in 0.05023550987243652 sec.
+
+2     7 8 3 1 7 7
+
+      5 4 0 0 0 0    4
+
+001  Yazeed_AlSuboh moved 1 in 0.0646047592163086 sec.
+
+3     8 9 4 2 8 0
+
+      6 4 0 0 0 0    4
+
+001  getA4Player moved 1 in 0.06561899185180664 sec.
+
+3     8 9 4 2 8 0
+
+      0 5 1 1 1 1    5
+
+001  getA4Player moved 2 in 0.051886558532714844 sec.
+
+3     8 9 4 2 8 0
+
+      0 0 2 2 2 2    6
+
+001  getA4Player moved 5 in 0.06781911849975586 sec.
+
+3     8 9 4 2 8 0
+
+      0 0 2 2 0 3    7
+
+001  getA4Player moved 3 in 0.03773760795593262 sec.
+
+3     8 9 4 2 0 0
+
+      0 0 0 3 0 3    16
+
+001  Yazeed_AlSuboh moved 3 in 0.06093454360961914 sec.
+
+3     8 10 5 0 0 0
+
+      0 0 0 3 0 3    16
+
+001  getA4Player moved 4 in 0.034383535385131836 sec.
+
+3     8 10 5 0 0 0
+
+      0 0 0 0 1 4    17
+
+001  getA4Player moved 6 in 0.0652315616607666 sec.
+
+3     8 10 5 1 1 1
+
+      0 0 0 0 1 0    18
+
+001  Yazeed_AlSuboh moved 1 in 0.05074501037597656 sec.
+
+3     8 10 5 1 2 0
+
+      0 0 0 0 1 0    18
+
+001  getA4Player moved 5 in 0.02899622917175293 sec.
+
+3     8 10 5 1 2 0
+
+      0 0 0 0 0 0    19
+
+000  The game ended correctly. getA4Player: 19 Yazeed_AlSuboh: 29
+
+000  Yazeed_AlSuboh win!
+

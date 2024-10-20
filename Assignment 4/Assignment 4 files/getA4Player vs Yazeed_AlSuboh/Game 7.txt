@@ -1,0 +1,112 @@
+001  Yazeed_AlSuboh moved 4 in 0.03413748741149902 sec.
+
+1     5 5 0 4 4 4
+
+      5 4 4 4 4 4    0
+
+001  getA4Player moved 3 in 0.07764649391174316 sec.
+
+1     5 5 0 4 4 4
+
+      5 4 0 5 5 5    1
+
+001  getA4Player moved 4 in 0.07964491844177246 sec.
+
+1     5 5 0 4 5 5
+
+      5 4 0 0 6 6    2
+
+001  Yazeed_AlSuboh moved 3 in 0.05010414123535156 sec.
+
+2     6 6 1 0 5 5
+
+      5 4 0 0 6 6    2
+
+001  Yazeed_AlSuboh moved 4 in 0.0747215747833252 sec.
+
+2     6 7 0 0 5 5
+
+      5 4 0 0 6 6    2
+
+001  getA4Player moved 5 in 0.06026315689086914 sec.
+
+2     6 7 1 1 6 6
+
+      5 4 0 0 0 7    3
+
+001  Yazeed_AlSuboh moved 3 in 0.07213950157165527 sec.
+
+2     6 7 2 0 6 6
+
+      5 4 0 0 0 7    3
+
+001  getA4Player moved 6 in 0.07558131217956543 sec.
+
+2     7 8 3 1 7 7
+
+      5 4 0 0 0 0    4
+
+001  Yazeed_AlSuboh moved 1 in 0.08687973022460938 sec.
+
+3     8 9 4 2 8 0
+
+      6 4 0 0 0 0    4
+
+001  getA4Player moved 1 in 0.0333094596862793 sec.
+
+3     8 9 4 2 8 0
+
+      0 5 1 1 1 1    5
+
+001  getA4Player moved 2 in 0.03169369697570801 sec.
+
+3     8 9 4 2 8 0
+
+      0 0 2 2 2 2    6
+
+001  getA4Player moved 5 in 0.03913426399230957 sec.
+
+3     8 9 4 2 8 0
+
+      0 0 2 2 0 3    7
+
+001  getA4Player moved 3 in 0.04329109191894531 sec.
+
+3     8 9 4 2 0 0
+
+      0 0 0 3 0 3    16
+
+001  Yazeed_AlSuboh moved 3 in 0.025017261505126953 sec.
+
+3     8 10 5 0 0 0
+
+      0 0 0 3 0 3    16
+
+001  getA4Player moved 4 in 0.07956814765930176 sec.
+
+3     8 10 5 0 0 0
+
+      0 0 0 0 1 4    17
+
+001  getA4Player moved 6 in 0.0431056022644043 sec.
+
+3     8 10 5 1 1 1
+
+      0 0 0 0 1 0    18
+
+001  Yazeed_AlSuboh moved 1 in 0.06048154830932617 sec.
+
+3     8 10 5 1 2 0
+
+      0 0 0 0 1 0    18
+
+001  getA4Player moved 5 in 0.02847456932067871 sec.
+
+3     8 10 5 1 2 0
+
+      0 0 0 0 0 0    19
+
+000  The game ended correctly. getA4Player: 19 Yazeed_AlSuboh: 29
+
+000  Yazeed_AlSuboh win!
+

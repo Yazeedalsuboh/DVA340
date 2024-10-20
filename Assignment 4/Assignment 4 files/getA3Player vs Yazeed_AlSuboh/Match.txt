@@ -1,0 +1,42 @@
+000  Game 0
+
+002  getA3Player 12 - 36 Yazeed_AlSuboh
+
+000  Game 1
+
+002  Yazeed_AlSuboh 39 - 9 getA3Player
+
+000  Game 2
+
+002  getA3Player 10 - 38 Yazeed_AlSuboh
+
+000  Game 3
+
+002  Yazeed_AlSuboh 32 - 16 getA3Player
+
+000  Game 4
+
+002  getA3Player 22 - 26 Yazeed_AlSuboh
+
+000  Game 5
+
+002  Yazeed_AlSuboh 40 - 8 getA3Player
+
+000  Game 6
+
+002  getA3Player 9 - 39 Yazeed_AlSuboh
+
+000  Game 7
+
+002  Yazeed_AlSuboh 38 - 10 getA3Player
+
+000  Game 8
+
+002  getA3Player 9 - 39 Yazeed_AlSuboh
+
+000  Game 9
+
+002  Yazeed_AlSuboh 36 - 12 getA3Player
+
+getA3Player won 0 games. Yazeed_AlSuboh won 10 games. There were 0 draws.
+

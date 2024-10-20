@@ -1,0 +1,112 @@
+001  Yazeed_AlSuboh moved 4 in 0.03747224807739258 sec.
+
+1     5 5 0 4 4 4
+
+      5 4 4 4 4 4    0
+
+001  getA4Player moved 3 in 0.03620719909667969 sec.
+
+1     5 5 0 4 4 4
+
+      5 4 0 5 5 5    1
+
+001  getA4Player moved 4 in 0.04365968704223633 sec.
+
+1     5 5 0 4 5 5
+
+      5 4 0 0 6 6    2
+
+001  Yazeed_AlSuboh moved 3 in 0.016384363174438477 sec.
+
+2     6 6 1 0 5 5
+
+      5 4 0 0 6 6    2
+
+001  Yazeed_AlSuboh moved 4 in 0.059755802154541016 sec.
+
+2     6 7 0 0 5 5
+
+      5 4 0 0 6 6    2
+
+001  getA4Player moved 5 in 0.03512120246887207 sec.
+
+2     6 7 1 1 6 6
+
+      5 4 0 0 0 7    3
+
+001  Yazeed_AlSuboh moved 3 in 0.03827524185180664 sec.
+
+2     6 7 2 0 6 6
+
+      5 4 0 0 0 7    3
+
+001  getA4Player moved 6 in 0.056036949157714844 sec.
+
+2     7 8 3 1 7 7
+
+      5 4 0 0 0 0    4
+
+001  Yazeed_AlSuboh moved 1 in 0.017841577529907227 sec.
+
+3     8 9 4 2 8 0
+
+      6 4 0 0 0 0    4
+
+001  getA4Player moved 1 in 0.06912040710449219 sec.
+
+3     8 9 4 2 8 0
+
+      0 5 1 1 1 1    5
+
+001  getA4Player moved 2 in 0.047069549560546875 sec.
+
+3     8 9 4 2 8 0
+
+      0 0 2 2 2 2    6
+
+001  getA4Player moved 5 in 0.03619217872619629 sec.
+
+3     8 9 4 2 8 0
+
+      0 0 2 2 0 3    7
+
+001  getA4Player moved 3 in 0.05173468589782715 sec.
+
+3     8 9 4 2 0 0
+
+      0 0 0 3 0 3    16
+
+001  Yazeed_AlSuboh moved 3 in 0.028197765350341797 sec.
+
+3     8 10 5 0 0 0
+
+      0 0 0 3 0 3    16
+
+001  getA4Player moved 4 in 0.04835867881774902 sec.
+
+3     8 10 5 0 0 0
+
+      0 0 0 0 1 4    17
+
+001  getA4Player moved 6 in 0.034628868103027344 sec.
+
+3     8 10 5 1 1 1
+
+      0 0 0 0 1 0    18
+
+001  Yazeed_AlSuboh moved 1 in 0.04055500030517578 sec.
+
+3     8 10 5 1 2 0
+
+      0 0 0 0 1 0    18
+
+001  getA4Player moved 5 in 0.04319047927856445 sec.
+
+3     8 10 5 1 2 0
+
+      0 0 0 0 0 0    19
+
+000  The game ended correctly. getA4Player: 19 Yazeed_AlSuboh: 29
+
+000  Yazeed_AlSuboh win!
+

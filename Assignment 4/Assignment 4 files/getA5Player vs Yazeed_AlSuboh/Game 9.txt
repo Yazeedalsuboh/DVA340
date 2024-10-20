@@ -1,0 +1,274 @@
+001  Yazeed_AlSuboh moved 6 in 0.06691169738769531 sec.
+
+1     0 4 4 4 4 4
+
+      5 5 5 4 4 4    0
+
+001  getA5Player moved 2 in 0.06896233558654785 sec.
+
+1     0 4 4 4 4 4
+
+      5 0 6 5 5 5    1
+
+001  getA5Player moved 1 in 0.030580997467041016 sec.
+
+1     0 4 4 4 4 4
+
+      0 1 7 6 6 6    1
+
+001  Yazeed_AlSuboh moved 1 in 0.06458640098571777 sec.
+
+1     0 5 5 5 5 0
+
+      0 1 7 6 6 6    1
+
+001  getA5Player moved 3 in 0.036435604095458984 sec.
+
+1     0 5 5 6 6 1
+
+      0 1 0 7 7 7    2
+
+001  Yazeed_AlSuboh moved 5 in 0.06708669662475586 sec.
+
+2     1 0 5 6 6 1
+
+      1 2 1 7 7 7    2
+
+001  getA5Player moved 6 in 0.027902841567993164 sec.
+
+2     2 1 6 7 7 2
+
+      1 2 1 7 7 0    3
+
+001  Yazeed_AlSuboh moved 6 in 0.04198122024536133 sec.
+
+3     0 1 6 7 7 2
+
+      2 2 1 7 7 0    3
+
+001  getA5Player moved 4 in 0.04303383827209473 sec.
+
+3     0 1 7 8 8 3
+
+      2 2 1 0 8 1    4
+
+001  Yazeed_AlSuboh moved 4 in 0.0514070987701416 sec.
+
+4     1 2 0 8 8 3
+
+      3 3 2 1 8 1    4
+
+001  getA5Player moved 5 in 0.06022834777832031 sec.
+
+4     2 3 1 9 9 4
+
+      3 3 2 1 0 2    5
+
+001  Yazeed_AlSuboh moved 3 in 0.051975250244140625 sec.
+
+5     3 4 2 0 9 4
+
+      4 4 3 2 1 2    5
+
+001  getA5Player moved 6 in 0.04335188865661621 sec.
+
+5     3 4 2 0 9 5
+
+      4 4 3 2 1 0    6
+
+001  Yazeed_AlSuboh moved 1 in 0.07303118705749512 sec.
+
+5     4 5 3 1 10 0
+
+      4 4 3 2 1 0    6
+
+001  getA5Player moved 3 in 0.061995506286621094 sec.
+
+5     4 5 3 1 10 0
+
+      4 4 0 3 2 0    7
+
+001  Yazeed_AlSuboh moved 5 in 0.056027889251708984 sec.
+
+6     5 0 3 1 10 0
+
+      5 5 1 3 2 0    7
+
+001  getA5Player moved 4 in 0.06882023811340332 sec.
+
+6     5 0 3 1 10 0
+
+      5 5 1 0 3 1    8
+
+001  getA5Player moved 6 in 0.05246162414550781 sec.
+
+6     5 0 3 1 10 0
+
+      5 5 1 0 3 0    9
+
+001  getA5Player moved 2 in 0.056913137435913086 sec.
+
+6     5 0 3 1 10 0
+
+      5 0 2 1 4 1    10
+
+001  getA5Player moved 6 in 0.034333229064941406 sec.
+
+6     5 0 3 1 10 0
+
+      5 0 2 1 4 0    11
+
+001  getA5Player moved 3 in 0.07801938056945801 sec.
+
+6     5 0 3 1 10 0
+
+      5 0 0 2 5 0    11
+
+001  Yazeed_AlSuboh moved 4 in 0.06058192253112793 sec.
+
+7     6 1 0 1 10 0
+
+      5 0 0 2 5 0    11
+
+001  Yazeed_AlSuboh moved 6 in 0.05512118339538574 sec.
+
+8     0 1 0 1 10 0
+
+      6 1 1 3 6 0    11
+
+001  getA5Player moved 4 in 0.03036046028137207 sec.
+
+8     0 1 0 1 10 0
+
+      6 1 1 0 7 1    12
+
+001  getA5Player moved 6 in 0.07338142395019531 sec.
+
+8     0 1 0 1 10 0
+
+      6 1 1 0 7 0    13
+
+001  getA5Player moved 1 in 0.034665822982788086 sec.
+
+8     0 1 0 1 10 0
+
+      0 2 2 1 8 1    14
+
+001  getA5Player moved 6 in 0.022594928741455078 sec.
+
+8     0 1 0 1 10 0
+
+      0 2 2 1 8 0    15
+
+001  getA5Player moved 3 in 0.03896498680114746 sec.
+
+8     0 1 0 1 10 0
+
+      0 2 0 2 9 0    15
+
+001  Yazeed_AlSuboh moved 3 in 0.06387758255004883 sec.
+
+9     0 1 0 0 10 0
+
+      0 2 0 2 9 0    15
+
+001  getA5Player moved 4 in 0.09742045402526855 sec.
+
+9     0 1 0 0 10 0
+
+      0 2 0 0 10 0    16
+
+001  Yazeed_AlSuboh moved 2 in 0.05918598175048828 sec.
+
+10     1 2 1 1 0 0
+
+       1 3 1 1 11 0    16
+
+001  getA5Player moved 5 in 0.03479766845703125 sec.
+
+10     2 3 2 2 1 1
+
+       2 4 2 1 0 1    17
+
+001  Yazeed_AlSuboh moved 6 in 0.0439906120300293 sec.
+
+11     0 3 2 2 1 1
+
+       3 4 2 1 0 1    17
+
+001  getA5Player moved 1 in 0.051355600357055664 sec.
+
+11     0 3 2 2 1 1
+
+       0 5 3 2 0 1    17
+
+001  Yazeed_AlSuboh moved 5 in 0.03446507453918457 sec.
+
+12     1 0 2 2 1 1
+
+       1 5 3 2 0 1    17
+
+001  getA5Player moved 2 in 0.033719539642333984 sec.
+
+12     1 0 2 2 1 1
+
+       1 0 4 3 1 2    18
+
+001  getA5Player moved 3 in 0.06668925285339355 sec.
+
+12     1 0 2 2 1 1
+
+       1 0 0 4 2 3    19
+
+001  getA5Player moved 5 in 0.05222511291503906 sec.
+
+12     1 0 2 2 1 1
+
+       1 0 0 4 0 4    20
+
+001  getA5Player moved 1 in 0.06756091117858887 sec.
+
+12     1 0 2 2 1 1
+
+       0 0 0 4 0 4    21
+
+001  Yazeed_AlSuboh moved 4 in 0.05914664268493652 sec.
+
+12     2 1 0 2 1 1
+
+       0 0 0 4 0 4    21
+
+001  getA5Player moved 4 in 0.1070253849029541 sec.
+
+12     2 1 0 2 1 2
+
+       0 0 0 0 1 5    22
+
+001  Yazeed_AlSuboh moved 3 in 0.08185124397277832 sec.
+
+12     2 2 1 0 1 2
+
+       0 0 0 0 1 5    22
+
+001  getA5Player moved 6 in 0.057660818099975586 sec.
+
+12     2 2 2 1 2 3
+
+       0 0 0 0 1 0    23
+
+001  Yazeed_AlSuboh moved 4 in 0.069915771484375 sec.
+
+12     3 3 0 1 2 3
+
+       0 0 0 0 1 0    23
+
+001  getA5Player moved 5 in 0.05665135383605957 sec.
+
+12     3 3 0 1 2 0
+
+       0 0 0 0 0 0    27
+
+000  The game ended correctly. getA5Player: 27 Yazeed_AlSuboh: 21
+
+000  getA5Player win!
+
